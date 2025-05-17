@@ -27,5 +27,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Output :
 
-## Result :
+![Screenshot 2025-05-17 211425](https://github.com/user-attachments/assets/368eda97-09d2-4c1b-b687-7ddab8f2b240)
 
+## Result :
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
